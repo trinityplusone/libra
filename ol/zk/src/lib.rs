@@ -11,6 +11,3 @@
 
 /// verify proof
 pub mod verify;
-
-/// other
-pub mod other;
